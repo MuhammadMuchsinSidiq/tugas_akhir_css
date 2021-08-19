@@ -1,0 +1,48 @@
+
+.bgc {
+  background: #ED213A;
+  background: linear-gradient(to left, #93291E, #ED213A  70%);
+}
+
+.jumbotron1, .jumbotron4 {
+  padding-top: 7rem;
+background: linear-gradient(to bottom,#ED213A 20%, #93291E);
+}
+
+.jumbotron2 {
+  padding-top: 3rem;
+background: linear-gradient(to bottom,#ffffff,  #b1b1b1);
+}
+
+.jumbotron3 {
+background: linear-gradient(to bottom,#ffffff,  #b1b1b1);
+}
+
+
+
+#About , #Contact , #Certificate,{
+    padding-top: 3.5rem;
+}
+
+#Projects, #Design {
+  padding-top: 3rem;
+  background: linear-gradient(to bottom,#ED213A, #93291E 75%);
+}
+
+.bgi {
+background: linear-gradient(to bottom,#93291E 60%, #58110a);
+}
+
+
+.bb {
+  margin-top: -16px;
+}
+
+.carousel-caption {
+  margin-top: 25px;
+}
+
+#Contact {
+    padding-top: 3rem;
+    background: linear-gradient(to bottom,#ED213A, #93291E 75%);
+}
